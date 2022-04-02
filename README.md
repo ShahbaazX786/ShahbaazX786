@@ -1,10 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaik Shahbaaz Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coder" width="400" src="assets/img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaazx786&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaazx786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbaazx786" alt="shahbaazx786" /></a> </p>
+
 
 - 🔭 I’m currently working on **MEAN Stack**
 
