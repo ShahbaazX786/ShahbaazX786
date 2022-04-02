@@ -43,7 +43,10 @@
 </p>
 <br>
 
+<!---uncomment if u want stats, stats didnt kick in for me so i just left it out, for now.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbaazx786&show_icons=true&locale=en&layout=compact" alt="shahbaazx786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbaazx786&show_icons=true&locale=en" alt="shahbaazx786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaazx786&" alt="shahbaazx786" /></p>
+-->
