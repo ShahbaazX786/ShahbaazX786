@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MEAN Stack**
 
-- 🌱 I’m currently learning **MEAN stack, Flutter**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 👨‍💻 All of my projects are available at [www.yettobemade.com](www.yettobemade.com)
 
