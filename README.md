@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](src="assets/banner2.gif")](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaik Shahbaaz Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coder" width="400" src="assets/img.gif">
