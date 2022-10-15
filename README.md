@@ -9,15 +9,17 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular & React**
+
+- 🖼️💻 Checkout my Portfolio at [Angular-Portfolio](https://angular-53ec4.web.app/)
 
 - 👨‍💻 All of my projects are available at [www.yettobemade.com](www.yettobemade.com)
 
 - 📝 I regularly write articles on [www.comingsoon.com](www.comingsoon.com)
 
-- 📫 How to reach me **shahbaazplatinum@gmail.com**
+- 📫 How to reach me **LinkdIn & Twitter**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
