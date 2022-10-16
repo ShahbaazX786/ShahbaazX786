@@ -1,5 +1,6 @@
-[![@shahbaazx786's Holopin board](https://holopin.me/shahbaazx786)](https://holopin.io/@shahbaazx786)
 [![MasterHead](assets/banner1.jpg) ](https://github.com/ShahbaazX786)
+
+[![@shahbaazx786's Holopin board](https://holopin.me/shahbaazx786)](https://holopin.io/@shahbaazx786)
 
 <h1 align="center">Hi 👋, I'm Shaik Shahbaaz Alam</h1>
 <h3 align="center">Full Stack Developer</h3>
