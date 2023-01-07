@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Angular & React**
 
-- 🖼️💻 Checkout my Portfolio at [Angular-Portfolio](www.shahbaaz.tk)
+- 🖼️💻 Checkout my Portfolio at [Angular-Portfolio](https://www.shahbaaz.tk)
 
-- 👨‍💻 All of my projects are available at [www.yettobemade.com](www.yettobemade.com)
+- 👨‍💻 All of my projects are available at [www.yettobemade.com](https://shahbaaz.tk)
 
 - 📝 I regularly write articles on [www.comingsoon.com](www.comingsoon.com)
 
