@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Angular & React**
 
-- 🖼️💻 Checkout my Portfolio at [Angular-Portfolio](https://angular-53ec4.web.app/)
+- 🖼️💻 Checkout my Portfolio at [Angular-Portfolio](www.shahbaaz.tk)
 
 - 👨‍💻 All of my projects are available at [www.yettobemade.com](www.yettobemade.com)
 
