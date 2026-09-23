@@ -1,0 +1,75 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="repixBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091819" />
+      <stop offset="50%" stop-color="#051214" />
+      <stop offset="100%" stop-color="#0c2427" />
+    </linearGradient>
+    <linearGradient id="tealGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14b8a6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="canvasGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#0e7490" />
+    </linearGradient>
+    <filter id="repixBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="45" result="blur" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#repixBg)" />
+
+  <!-- Background Ambient Glow -->
+  <circle cx="260" cy="190" r="150" fill="#14b8a6" opacity="0.22" filter="url(#repixBlur)" />
+  <circle cx="560" cy="220" r="140" fill="#06b6d4" opacity="0.18" filter="url(#repixBlur)" />
+
+  <!-- Canvas Pixel Grid Background Graphic -->
+  <g opacity="0.12" stroke="#2dd4bf" stroke-width="1">
+    <pattern id="pixelGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect width="30" height="30" fill="none" stroke="#2dd4bf" stroke-width="1" />
+      <circle cx="15" cy="15" r="1.5" fill="#2dd4bf" />
+    </pattern>
+    <rect width="800" height="500" fill="url(#pixelGrid)" />
+  </g>
+
+  <!-- Central Canvas Converter Graphic -->
+  <g transform="translate(180, 80)">
+    <!-- Source Image Box -->
+    <g transform="translate(0, 30)">
+      <rect x="0" y="0" width="160" height="150" rx="16" fill="rgba(15,23,42,0.8)" stroke="rgba(20,184,166,0.3)" stroke-width="1.5" />
+      <!-- Image graphic -->
+      <circle cx="45" cy="50" r="14" fill="#fbbf24" opacity="0.9" />
+      <path d="M20 120 L65 75 L105 105 L135 80 L145 120 Z" fill="#2dd4bf" opacity="0.7" />
+      <rect x="35" y="115" width="90" height="24" rx="6" fill="#134e4a" />
+      <text x="80" y="131" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="#5eead4" text-anchor="middle">PNG / RAW</text>
+    </g>
+
+    <!-- Arrow & Canvas Conversion Node -->
+    <g transform="translate(190, 80)">
+      <circle cx="30" cy="25" r="28" fill="url(#tealGlow)" />
+      <!-- Canvas transform icon -->
+      <path d="M20 25 L32 17 L32 21 L40 21 L40 29 L32 29 L32 33 Z" fill="#ffffff" />
+      <text x="30" y="68" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#2dd4bf" text-anchor="middle">Canvas API</text>
+    </g>
+
+    <!-- Target Optimized Image Box -->
+    <g transform="translate(280, 20)">
+      <rect x="0" y="0" width="160" height="170" rx="16" fill="rgba(13,148,136,0.15)" stroke="#14b8a6" stroke-width="2" />
+      <rect x="15" y="15" width="130" height="90" rx="8" fill="rgba(0,0,0,0.4)" />
+      <!-- Optimized graphic -->
+      <circle cx="50" cy="45" r="12" fill="#fbbf24" />
+      <path d="M25 95 L60 60 L95 85 L120 65 L135 95 Z" fill="#38bdf8" opacity="0.8" />
+      
+      <!-- Format Badges -->
+      <g transform="translate(15, 118)">
+        <rect x="0" y="0" width="60" height="22" rx="4" fill="#042f2e" stroke="#2dd4bf" stroke-width="1" />
+        <text x="30" y="15" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#2dd4bf" text-anchor="middle">AVIF</text>
+
+        <rect x="68" y="0" width="62" height="22" rx="4" fill="#042f2e" stroke="#06b6d4" stroke-width="1" />
+        <text x="99" y="15" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#67e8f9" text-anchor="middle">-85% size</text>
+      </g>
+    </g>
+  </g>
+</svg>
